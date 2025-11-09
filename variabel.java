@@ -3,7 +3,7 @@ public class variabel {
         String nama = "Raddin Pratama Rachmat";
         String ttl = "Bogor, 25 Mei 2007";
         String jk = "Laki-laki";
-        String alamat = "Jl. Raya Tajur No. 123, Bogor";
+        String alamat = "Jl. Melati 2, Blok E3 no 18, Kab.Bogor";
         long nohp = 6281234567890L;
         int penghasilan = 15000000;
 
